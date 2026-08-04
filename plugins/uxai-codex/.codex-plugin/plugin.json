@@ -1,0 +1,28 @@
+{
+  "name": "uxai",
+  "version": "0.1.0",
+  "description": "An extension of the UX+AI MCP. It makes the 101 methods easy to find and run.",
+  "author": {
+    "name": "Ileana Marcut",
+    "url": "https://uxai.ileanamarcut.co"
+  },
+  "homepage": "https://uxai.ileanamarcut.co",
+  "repository": "https://github.com/IleanaMarcut/uxai-mcp-plugin",
+  "keywords": ["ux", "ui", "design", "research", "ai", "product design", "design system"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "UX+AI Methods",
+    "shortDescription": "101 UX and AI methods you can run on your own work",
+    "longDescription": "An extension of the UX+AI MCP by Ileana Marcut. Ask for a method by name, or describe what you are working on and it picks the right one from 101 across research, ideation, flows, writing, critique, design systems, and designing for AI.",
+    "developerName": "Ileana Marcut",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "websiteURL": "https://uxai.ileanamarcut.co",
+    "defaultPrompt": [
+      "Run a heuristic critique on this screen",
+      "Show me the UX+AI research methods",
+      "Use the UX+AI assumption mapper on this brief"
+    ]
+  }
+}

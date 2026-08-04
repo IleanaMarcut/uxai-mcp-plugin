@@ -1,0 +1,20 @@
+{
+  "name": "uxai",
+  "plugins": [
+    {
+      "name": "uxai",
+      "source": {
+        "source": "local",
+        "path": "./plugins/uxai-codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "interface": {
+        "displayName": "UX+AI Methods"
+      }
+    }
+  ]
+}

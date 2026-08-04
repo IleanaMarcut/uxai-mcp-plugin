@@ -1,0 +1,21 @@
+{
+  "name": "uxai",
+  "displayName": "UX+AI Commands",
+  "description": "An extension of the UX+AI MCP. It makes the 101 methods easy to find and run with / commands.",
+  "version": "0.5.0",
+  "author": {
+    "name": "Ileana Marcut",
+    "url": "https://uxai.ileanamarcut.co"
+  },
+  "homepage": "https://uxai.ileanamarcut.co",
+  "repository": "https://github.com/IleanaMarcut/uxai-mcp-plugin",
+  "keywords": [
+    "ux",
+    "ui",
+    "design",
+    "research",
+    "ai",
+    "product design",
+    "design system"
+  ]
+}

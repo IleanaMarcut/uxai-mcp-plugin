@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uxai": {
+      "type": "http",
+      "url": "https://uxai.ileanamarcut.co/mcp"
+    }
+  }
+}
