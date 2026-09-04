@@ -119,6 +119,7 @@ brings the download link and the steps.
 
 - one command per method, 101 in total, for example `/uxai:heuristic-critique our checkout screen`
 - `/uxai:methods` lists the whole library
+- `/uxai:skills` lists the skills
 - `/uxai:connect` checks your setup and names the one thing to fix
 
 **Skills**
