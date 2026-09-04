@@ -126,7 +126,10 @@ brings the download link and the steps.
 - for combining methods into workflows: Project Health Check, Portfolio Coach, Agent Designer
 - for specific needs: Idea Studio, AI UX Risk audit, 3D Studio
 
-**Connector tools, what your AI uses underneath**
+**Connector tools**
+
+The plugin wires the UX+AI connector into Claude Code. These tools run on the
+connector, and they are what your AI uses underneath the commands and skills:
 
 - `search` finds methods and skills in plain words
 - `list_methods` lists the library, ids and summaries
