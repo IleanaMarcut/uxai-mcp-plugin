@@ -131,7 +131,7 @@ brings the download link and the steps.
 
 The plugin wires the UX+AI connector into Claude Code. The methods and skills live
 there, and your AI works with it underneath the commands. The full reference, tools
-and sign-in included, is in [docs/connector.md](docs/connector.md).
+and sign-in included: [github.com/IleanaMarcut/uxai-mcp](https://github.com/IleanaMarcut/uxai-mcp).
 
 ## How it works
 
