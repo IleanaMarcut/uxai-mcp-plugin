@@ -1,6 +1,6 @@
-# UX+AI Commands
+# UX+AI Commands and Skills
 
-101 UX and AI methods, plus three skills, by
+101 UX and AI methods and six skills, by
 [Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and in ChatGPT or Codex.
 
 An extension of the UX+AI MCP. The methods live in the connector, and this plugin
@@ -112,6 +112,30 @@ carries its own method inside and works in Claude and in ChatGPT.
 
 These install once from a download. Ask your AI: "install the 3D Studio skill", and it
 brings the download link and the steps.
+
+## What's inside
+
+**Commands**
+
+- one command per method, 101 in total
+- `/uxai:methods` lists the whole library
+- `/uxai:connect` checks your setup and names the one thing to fix
+
+**Skills**
+
+- for combining methods into workflows: Project Health Check, Portfolio Coach, Agent Designer
+- for specific needs: Idea Studio, AI UX Risk audit, 3D Studio
+
+**Connector tools, what your AI uses underneath**
+
+- `search` finds methods and skills in plain words
+- `list_methods` lists the library, ids and summaries
+- `fetch` pulls one method's full text
+- `skills` lists the installable skills
+- `get_skill` returns a download link and install steps
+- `slash_commands` tells an AI how to install this plugin
+
+Method text only ever reaches signed-in subscribers.
 
 ## How it works
 
