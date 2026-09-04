@@ -1,6 +1,6 @@
 # UX+AI Commands and Skills
 
-101 UX and AI methods and six skills, by
+101 UX and AI methods and seven skills, by
 [Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and in ChatGPT or Codex.
 
 An extension of the UX+AI MCP. The methods live in the connector, and this plugin
@@ -83,7 +83,7 @@ Same connector, same sign-in, same methods.
 
 ## Skills
 
-The plugin also installs three skills.
+The plugin also installs four skills.
 
 A command runs one method. A skill handles a whole situation: it picks the right
 methods and runs them in order.
@@ -94,6 +94,8 @@ methods and runs them in order.
   hard review before you send anything.
 - **Agent Designer**. Building a bot? What it may do, when it hands off to a human,
   and how it should sound.
+- **Design Critic**. Ready for a hard look? Runs the right critique for what you
+  show it, issues ranked by what they cost users, each with a fix.
 
 Nothing to set up. Say what you are working on and the right skill steps in, or call
 one by name: "run the project health check".
@@ -124,7 +126,7 @@ brings the download link and the steps.
 
 **Skills**
 
-- for combining methods into workflows: Project Health Check, Portfolio Coach, Agent Designer
+- for combining methods into workflows: Project Health Check, Portfolio Coach, Agent Designer, Design Critic
 - for specific needs: Idea Studio, AI UX Risk audit, 3D Studio
 
 **The connector**
