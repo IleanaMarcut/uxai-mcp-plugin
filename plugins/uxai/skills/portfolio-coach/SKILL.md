@@ -73,6 +73,21 @@ fetch(id: "portfolio-self-critique")
 
 One method at a time. Offer the next when the first is answered.
 
+## Presenting results
+
+- One markdown document holds the results. When the client can create or save a
+  document, put everything there; otherwise deliver it as one structured message.
+  Never scatter a deliverable across replies.
+- Open the document with one line: which method ran, on what material.
+- Deliver everything the method's Deliver section names, complete and uncompressed:
+  every item, every ranked entry, full tables, as produced.
+- Keep the method's own headings, tables, and order. Add nothing decorative.
+- Close with a conclusion in short bullets: the decisions or next steps the results
+  point to.
+- In multi-step runs, each step's output stays intact in the same document; carry
+  forward what the next step needs, and never hand a summary of a deliverable to the
+  next method.
+
 ## When the request is a different job
 
 Run the matching method from the connector instead of stretching these three onto it:
