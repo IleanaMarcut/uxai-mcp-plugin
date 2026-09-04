@@ -98,8 +98,20 @@ methods and runs them in order.
 Nothing to set up. Say what you are working on and the right skill steps in, or call
 one by name: "run the project health check".
 
-Three more skills come with the subscription: **Idea Studio**, **AI UX Risk audit**,
-and **3D Studio**. Get one by asking: "install the 3D Studio skill".
+## Skills that come with the subscription
+
+Three more skills are part of the subscription. These are full packages: each one
+carries its own method inside and works in Claude and in ChatGPT.
+
+- **Idea Studio.** Opens up an early idea: the concepts underneath it, how they
+  collide, and the tensions worth exploring before anything gets designed.
+- **AI UX Risk audit.** A structured risk report on an AI feature: where it could
+  break trust, confuse people, or cause harm, and what to fix first.
+- **3D Studio.** Product-render 3D elements for your site, built from a sentence, a
+  reference image, a sketch, or vector art. The output is code you drop in.
+
+These install once from a download. Ask your AI: "install the 3D Studio skill", and it
+brings the download link and the steps.
 
 ## How it works
 
