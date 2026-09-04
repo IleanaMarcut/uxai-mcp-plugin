@@ -1,7 +1,7 @@
 # UX+AI Commands
 
-101 UX and AI methods by [Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and
-in ChatGPT or Codex.
+101 UX and AI methods, plus three skills, by
+[Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and in ChatGPT or Codex.
 
 An extension of the UX+AI MCP. The methods live in the connector, and this plugin
 makes them easy to find and run.
@@ -81,6 +81,38 @@ Show me the UX+AI research methods
 
 Same connector, same sign-in, same methods.
 
+## Skills
+
+The plugin also installs three skills.
+
+A command runs one method. A skill handles a whole situation: it picks the right
+methods and runs them in order.
+
+- **Project Health Check**. How is my project doing? Checks what breaks, the security
+  basics, and what to re-test after a change.
+- **Portfolio Coach**. Applying for a job? Positioning, one strong case study, and a
+  hard review before you send anything.
+- **Agent Designer**. Building a bot? What it may do, when it hands off to a human,
+  and how it should sound.
+
+Nothing to set up. Say what you are working on and the right skill steps in, or call
+one by name: "run the project health check".
+
+## Skills that come with the subscription
+
+Three more skills are part of the subscription. These are full packages: each one
+carries its own method inside and works in Claude and in ChatGPT.
+
+- **Idea Studio.** Opens up an early idea: the concepts underneath it, how they
+  collide, and the tensions worth exploring before anything gets designed.
+- **AI UX Risk audit.** A structured risk report on an AI feature: where it could
+  break trust, confuse people, or cause harm, and what to fix first.
+- **3D Studio.** Product-render 3D elements for your site, built from a sentence, a
+  reference image, a sketch, or vector art. The output is code you drop in.
+
+These install once from a download. Ask your AI: "install the 3D Studio skill", and it
+brings the download link and the steps.
+
 ## How it works
 
 Each command points at the connector. `/uxai:empathy-map` asks for the `empathy-map`
@@ -129,8 +161,8 @@ Happy to help: [ileana@creativegluelab.com](mailto:ileana@creativegluelab.com)
 
 Copyright © 2026 Ileana Marcut, UX+AI. All rights reserved.
 
-This repository contains only the command definitions and configuration for the plugin. It
-carries no method content.
+This repository contains only the command definitions, skill routing files, and
+configuration for the plugin. It carries no method content.
 
 The methods themselves are served by the UX+AI MCP and are licensed to individual UX+AI
 Newsletter subscribers for use in their own work. Method text retrieved through the
