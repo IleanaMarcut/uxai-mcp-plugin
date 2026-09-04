@@ -1,7 +1,7 @@
 # UX+AI Commands
 
-101 UX and AI methods by [Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and
-in ChatGPT or Codex.
+101 UX and AI methods, plus three skills, by
+[Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and in ChatGPT or Codex.
 
 An extension of the UX+AI MCP. The methods live in the connector, and this plugin
 makes them easy to find and run.
@@ -81,6 +81,26 @@ Show me the UX+AI research methods
 
 Same connector, same sign-in, same methods.
 
+## Skills
+
+The plugin also installs three skills.
+
+A command runs one method. A skill handles a whole situation: it picks the right
+methods and runs them in order.
+
+- **Project Health Check**. How is my project doing? Checks what breaks, the security
+  basics, and what to re-test after a change.
+- **Portfolio Coach**. Applying for a job? Positioning, one strong case study, and a
+  hard review before you send anything.
+- **Agent Designer**. Building a bot? What it may do, when it hands off to a human,
+  and how it should sound.
+
+Nothing to set up. Say what you are working on and the right skill steps in, or call
+one by name: "run the project health check".
+
+Three more skills come with the subscription: **Idea Studio**, **AI UX Risk audit**,
+and **3D Studio**. Get one by asking: "install the 3D Studio skill".
+
 ## How it works
 
 Each command points at the connector. `/uxai:empathy-map` asks for the `empathy-map`
@@ -129,8 +149,8 @@ Happy to help: [ileana@creativegluelab.com](mailto:ileana@creativegluelab.com)
 
 Copyright © 2026 Ileana Marcut, UX+AI. All rights reserved.
 
-This repository contains only the command definitions and configuration for the plugin. It
-carries no method content.
+This repository contains only the command definitions, skill routing files, and
+configuration for the plugin. It carries no method content.
 
 The methods themselves are served by the UX+AI MCP and are licensed to individual UX+AI
 Newsletter subscribers for use in their own work. Method text retrieved through the
