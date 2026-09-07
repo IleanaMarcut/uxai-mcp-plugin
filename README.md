@@ -1,6 +1,6 @@
 # UX+AI Commands and Skills
 
-101 UX and AI methods and seven skills, by
+105 UX and AI methods and seven skills, by
 [Ileana Marcut](https://uxai.ileanamarcut.co), in Claude Code and in ChatGPT or Codex.
 
 An extension of the UX+AI MCP. The methods live in the connector, and this plugin
@@ -9,7 +9,7 @@ makes them easy to find and run.
 ```
 /uxai:heuristic-critique   our checkout screen
 /uxai:cta-namer            the button that saves a draft
-/uxai:methods              browse all 101
+/uxai:methods              browse all 105
 ```
 
 ## Install
@@ -41,7 +41,7 @@ Quit and reopen it.
 
 ### 5. Use it
 
-Type `/uxai` to see all 101 methods and pick one, or run one directly with what you are
+Type `/uxai` to see all 105 methods and pick one, or run one directly with what you are
 working on:
 
 ```
@@ -63,7 +63,7 @@ Steps 1 to 3, as commands instead:
 ## ChatGPT and Codex
 
 A second plugin in this repo, `plugins/uxai-codex/`, carries the same methods for ChatGPT
-and Codex. It uses one routing skill rather than 101 commands, because those surfaces pick
+and Codex. It uses one routing skill rather than 105 commands, because those surfaces pick
 skills by `@` or by description rather than by typed command.
 
 ```
@@ -119,7 +119,7 @@ brings the download link and the steps.
 
 **Commands**
 
-- one command per method, 101 in total, for example `/uxai:heuristic-critique our checkout screen`
+- one command per method, 105 in total, for example `/uxai:heuristic-critique our checkout screen`
 - `/uxai:methods` lists the whole library
 - `/uxai:skills` lists the skills
 - `/uxai:connect` checks your setup and names the one thing to fix
