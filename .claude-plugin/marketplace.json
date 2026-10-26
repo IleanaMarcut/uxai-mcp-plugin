@@ -8,7 +8,7 @@
     {
       "name": "uxai",
       "source": "./plugins/uxai",
-      "description": "101 UX and AI methods as / commands, plus three skills that handle whole tasks."
+      "description": "106 UX and AI methods as / commands, plus four skills that handle whole tasks."
     }
   ]
 }
