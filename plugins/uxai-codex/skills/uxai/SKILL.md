@@ -1,6 +1,6 @@
 ---
 name: uxai
-description: Run one of Ileana Marcut's 101 UX and AI methods on the user's own work, or list and install the UX+AI skills. Use when the user asks for a method by name or id, asks what UX+AI methods or skills exist, asks to install a UX+AI skill, or describes a UX, research, ideation, critique, writing, design-system, or AI-design task that one of the methods below covers. Needs the uxai MCP server.
+description: Run one of Ileana Marcut's 106 UX and AI methods on the user's own work, or list and install the UX+AI skills. Use when the user asks for a method by name or id, asks what UX+AI methods or skills exist, asks to install a UX+AI skill, or describes a UX, research, ideation, critique, writing, design-system, or AI-design task that one of the methods below covers. Needs the uxai MCP server.
 ---
 
 # UX+AI methods

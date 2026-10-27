@@ -1,5 +1,5 @@
 ---
-description: "Browse all 101 UX+AI methods by Ileana Marcut, or route a task to the right one."
+description: "Browse all 106 UX+AI methods by Ileana Marcut, or route a task to the right one."
 ---
 
 The user wants to browse the UX+AI method library, or find the right method for a task. Their request:
